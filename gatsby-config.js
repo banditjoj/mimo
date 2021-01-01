@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/mimo",
   plugins: [
     {
       resolve: `gatsby-theme-garden`,
